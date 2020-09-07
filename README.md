@@ -2,7 +2,6 @@
 Malicious-Urlv5.
 
 **TECH STACK**
-
 Python, Django(Framework), IBM cloudant database, IBM cloud (for deployment), Data science, Machine learning
 
 This application is live at : https://mudv7.eu-gb.cf.appdomain.cloud/
